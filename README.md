@@ -15,7 +15,7 @@
 	&#8194;	&#8194;<img src="https://nodejs.org/static/images/logo.svg" width="100">
 	&#8194;	&#8194;<img src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg" width="100">
 	&#8194;	&#8194;<img src="https://strongloop.com/blog-assets/2015/07/babel.png" width="50">
-	&#8194;	&#8194;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" width="50">
+	&#8194;	&#8194;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" width="30">
 
 -
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/1200px-Gulp.js_Logo.svg.png" width="30">__I.GULP có gì:
