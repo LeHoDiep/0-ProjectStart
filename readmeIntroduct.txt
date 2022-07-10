@@ -37,3 +37,5 @@ Please make sure you have the correct access rights
 and the repository exists.
 --lỗi này là : muốn hỏi mình rằng đã liên kết repository chưa ? $ git remote add origin https://github.com/LeHoDiep/0-ProjectStart.git 
 --sau đó chạy lại push là xong
+
+--để sử dụng code trên máy khác, nhớ cập nhật lại nodejs ở phiên bản mới nhất để trách code k chạy được
