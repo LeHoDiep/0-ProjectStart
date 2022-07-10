@@ -34,5 +34,7 @@
 
 #### III.1 sử dụng MongoDB để xây dựng database | Mongooes giúp thao tác với các Collection trong MongoDB dể dàng |liên kết database và NODEJS | áp dụng EXPRESS để xây dụng bộ RESTFUL API như 1 backend
 ### từ folder này bạn có thể phát triễn tiếp với nhiều hướng xây dựng (bán hàng, quản lý, ứng dụng đa web, landing page)
-# PIEDTEAM Chân thành cảm ơn các bạn đã tham gia khóa học tới thời điểm này
-
+# **PIEDTEAM** Chân thành cảm ơn các bạn đã tham gia khóa học tới thời điểm này
+facebook: https://www.facebook.com/nomadic.lodestar/
+group: https://www.facebook.com/groups/318166702534463
+page: https://www.facebook.com/search/top?q=pied%20t%E1%BB%9Bi%20%C4%91%C3%A2y
